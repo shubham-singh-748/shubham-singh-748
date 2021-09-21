@@ -10,7 +10,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-92906b20a/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajputShubbu108)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
+<p align="left">  </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
