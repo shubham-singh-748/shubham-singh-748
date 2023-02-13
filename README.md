@@ -7,8 +7,8 @@
 
 
 ## 🔗 Links
-(<img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45" height="45">](https://bit.ly/3YNDuvV)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajputShubbu108)
+<a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45" height="45"></a>
+<a href="https://bit.ly/3lqPdlP"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="" width="45" height="45"></a>
 <h3 align="left">
 <p align="left">
 <a href="https://leetcode.com/progress/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamsingh748" height="30" width="40" /></a>
