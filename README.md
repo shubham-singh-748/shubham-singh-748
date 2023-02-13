@@ -7,7 +7,7 @@
 
 
 ## 🔗 Links
-[![linkedin](https://user-images.githubusercontent.com/88304238/218419006-7104b49b-1786-4824-bd25-03b6c75bd09a.png =18x18)](https://bit.ly/3YNDuvV)
+[![linkedin](https://user-images.githubusercontent.com/88304238/218419006-7104b49b-1786-4824-bd25-03b6c75bd09a.png | width=18)](https://bit.ly/3YNDuvV)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajputShubbu108)
 <h3 align="left">
 <p align="left">
