@@ -7,7 +7,8 @@
 
 
 ## 🔗 Links
-[![codeforces](![image](https://user-images.githubusercontent.com/88304238/218418488-dbd5f6c7-ccb6-447e-a45c-d9aeac200262.png))](https://codeforces.com/profile/shubhamsingh748)
+[![linkedin](![image](https://user-images.githubusercontent.com/88304238/218419006-7104b49b-1786-4824-bd25-03b6c75bd09a.png)
+)(https://codeforces.com/profile/shubhamsingh748)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajputShubbu108)
 <h3 align="left">
 <p align="left">
