@@ -7,7 +7,7 @@
 
 
 ## 🔗 Links
-[![linkedin](<img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45" height="45">](https://bit.ly/3YNDuvV)
+(<img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45" height="45">](https://bit.ly/3YNDuvV)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajputShubbu108)
 <h3 align="left">
 <p align="left">
