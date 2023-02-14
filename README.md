@@ -3,7 +3,7 @@
   
 ## About Me 🚀
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering. 
-* I am passionate about competitive programming, mathematics, artificial intelligence, Machine Learning & I enjoy learning new things.
+* I am passionate about competitive programming, mathematics, Front-end dev, Machine Learning & I enjoy learning new things.
 
 
 ## 🔗 Links
