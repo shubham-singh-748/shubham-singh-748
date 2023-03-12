@@ -11,7 +11,6 @@
 <a href="https://bit.ly/3lqPdlP"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="" width="39" height="39"></a>
 <h3 align="left">
 <p align="left">
-<a href="https://bit.ly/3K3HrbL"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/512px-Codeforces_logo.svg.png?20200622150123" alt="" width="200"></a>
 
 
 
