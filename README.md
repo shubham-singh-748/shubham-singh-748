@@ -7,14 +7,14 @@
 things.
 
 ## 🔗 Links
-<a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45"
+  <a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45"
         height="45"></a>
   <a href="https://bit.ly/3lqPdlP"><img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553"
         alt="" width="39" height="39"></a>
+        
 <h3 align="left">
     <p align="left">
-
     <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
             width="480px" height="490px"> </p>
 
