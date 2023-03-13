@@ -26,7 +26,7 @@ things.
             height="53px" width="58px">
     </p>
 
-    <h3 align="left">Languages:</h3>
+ <h3 align="left">Languages:</h3>
         <p> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="53px" width="58px">
         <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png"
             height="53px" width="58px">
@@ -51,7 +51,7 @@ things.
   
 </div> -->
 
-    <div>
+  <div>
 
         [![GitHub
         Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
@@ -59,9 +59,9 @@ things.
     </div>
 
 
-    <p>&nbsp;<img align="center"
+ <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en"
             alt="shubham-singh-748" /></p>
-    <p align="left"> <img
+ <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
             alt="shubham-singh-748" /> </p>
