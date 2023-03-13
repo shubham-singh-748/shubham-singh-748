@@ -49,12 +49,9 @@ things.
     </div>
     
     ![shubham-singh-748's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh-748&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubham-singh-748&theme=gotham)](https://git.io/streak-stats) 
-
- <p>&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en"
-            alt="shubham-singh-748" /></p>
+   <div>
+     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubham-singh-748&theme=gotham)](https://git.io/streak-stats) 
+   </div>
  <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
             alt="shubham-singh-748" /> </p>
