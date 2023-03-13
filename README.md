@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" width="43px" height="35px" alt=""> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" width="45px" height="39px" alt=""> <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png" height="46px" width="49px"> </p>
+<p align="left"> <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" height="56px" width="54px" alt=""> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="56px" width="52px" alt=""> <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png" height="55px" width="56px"> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
