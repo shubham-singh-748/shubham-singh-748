@@ -21,14 +21,16 @@
             height="53px" width="58px">
   </div>
     
-    ### Languages:
-    <p> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="53px" width="58px">
+  ### Languages:
+    <div> 
+      <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="53px" width="58px">
         <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png" height="53px" width="58px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="53px" width="58px"></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="53px" width="58px"></div>
     
-    ### Libraries & Frameworks
-    <p> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="71px" width="72px">
-        <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px"></p>
+  ### Libraries & Frameworks
+    <div> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="71px" width="72px">
+        <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
+      </div>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
