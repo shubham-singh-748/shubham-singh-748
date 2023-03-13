@@ -13,14 +13,14 @@
 <p align="left">
 
 
-<h3>Tools for development:</h3>
+## Tools for development:
     <p> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="53px" width="58px">
         <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" height="53px" width="58px">
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="53px" width="58px">
         <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"
             height="53px" width="58px"></p>
     
-    <h3>Languages:</h3>
+    ## Languages:
     <p> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="53px" width="58px">
         <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png"
             height="53px" width="58px">
