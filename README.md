@@ -39,7 +39,7 @@ things.
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p>
     
- <div>
+  <div>
         [![GitHub Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
  </div>
     
