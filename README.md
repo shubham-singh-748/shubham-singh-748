@@ -32,6 +32,17 @@
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p>
   
+  <div>
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://raw.githubusercontent.com/shubham-singh-748/shubham-singh-748/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://raw.githubusercontent.com/shubham-singh-748/shubham-singh-748/output/github-contribution-grid-snake.svg">
+            <img alt="grid snake animation"
+                src="https://raw.githubusercontent.com/shubham-singh-748/shubham-singh-748/output/github-contribution-grid-snake-dark.svg">
+        </picture>
+    </div>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
 
