@@ -15,8 +15,8 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href=""><img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="" width="50"></a> <a href=""><img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" alt="" width="70"></a> <a href=""><img src="https://global.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" alt="" width="170"></a> <a href=""><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="" width="60"></a> </p>
+<h3 align="left">Languages:</h3>
+<p align="left"> <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" width="34px" height="29px" alt=""> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" width="34px" height="29px" alt=""> <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png" height="32px" width="34px"> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
