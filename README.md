@@ -32,7 +32,7 @@
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p>
   
-  <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="498px" width="480px" align="right" </p>
+  <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="498px" width="480px" align="right"> </p>
 <!--   <div>
 
     <picture>
