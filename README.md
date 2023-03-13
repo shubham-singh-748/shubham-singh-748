@@ -16,7 +16,19 @@
 
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" height="56px" width="54px" alt=""> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="56px" width="52px" alt=""> <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png" height="55px" width="56px"> </p>
+<p align="left"> <img src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg" height="94px" width="103px"> 
+
+     <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="94px" width="101px"> 
+
+     <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png" height="93px" width="98px">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png"
+        height="93px" width="98px">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+        height="93px" width="98px">
+    
+    <img src="https://rootstack.com/static/f2b8396b985c94e19a16b4d83ace3101/React.png" height="93px" width="98px">> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
