@@ -1,5 +1,4 @@
 <h1 align="center">Hey!<img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="auto" height="55px">This is Shubham</h1>
-<p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="498px" width="480px" align="right" </p>
 
 ## About Me 🚀
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering. 
@@ -33,6 +32,7 @@
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p>
   
+  <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="498px" width="480px" align="right" </p>
 <!--   <div>
 
     <picture>
