@@ -13,7 +13,7 @@
 <p align="left">
 
 
-## Tools for development:
+<!-- ## Tools for development:
     <p> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="53px" width="58px">
         <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" height="53px" width="58px">
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="53px" width="58px">
@@ -29,7 +29,7 @@
     
     <h3>Libraries & Framework:</h3>
     <p> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="71px" width="72px">
-        <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px"></p>
+        <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px"></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
 
