@@ -4,7 +4,7 @@
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering. 
 * I am passionate about competitive programming, mathematics, Front-end dev, Machine Learning & I enjoy learning new things.
 
- <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="498px" width="480px" align="right"> </p>
+ <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="auto" width="280" align="right"> </p>
  
 ## 🔗 Links
 <a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45" height="45"></a>
