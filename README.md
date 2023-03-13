@@ -45,8 +45,7 @@
   
   <div>
     
-  [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" hspace="0" vspace="0" width="170" height="170" align="right"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 </div>
   
   
