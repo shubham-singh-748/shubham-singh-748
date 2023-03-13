@@ -13,10 +13,14 @@
 <p align="left">
 
 
-
-
+<h3 align="left">Tools for development:</h3>
+  <p align="left">     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="93px" width="98px">
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" height="93px" width="98px">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="93px" width="98px">
+    <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" height="93px" width="98px"> </p>
+          
 <h3 align="left">Languages:</h3>
-<p align="left"> <img src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg" height="94px" width="103px"> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="94px" width="101px"> 
+<p align="left"> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="94px" width="101px"> 
   <img src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png" height="93px" width="98px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
         height="93px" width="98px"> </p>
