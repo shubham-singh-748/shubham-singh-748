@@ -32,7 +32,7 @@
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p>
   
-  <div>
+<!--   <div>
 
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weshaan/weshaan/output/github-contribution-grid-snake-dark.svg">
@@ -41,7 +41,14 @@
   </picture>
 
   
+</div> -->
+  
+  <div>
+    
+  [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" hspace="0" vspace="0" width="170" height="170" align="right"/>
 </div>
+  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
