@@ -33,14 +33,14 @@
     </p>
   
   <div>
-        <picture>
+            <picture>
             <source media="(prefers-color-scheme: dark)"
                 srcset="https://raw.githubusercontent.com/shubham-singh-748/shubham-singh-748/output/github-contribution-grid-snake-dark.svg">
             <source media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/shubham-singh-748/shubham-singh-748/output/github-contribution-grid-snake.svg">
             <img alt="grid snake animation"
                 src="https://raw.githubusercontent.com/shubham-singh-748/shubham-singh-748/output/github-contribution-grid-snake-dark.svg">
-        </picture>
+            </picture>
     </div>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
