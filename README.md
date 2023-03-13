@@ -34,24 +34,13 @@ things.
             height="53px" width="58px">
     </p>
 
-    <h3 align="left">Libraries & Framework:</h3>
+ <h3 align="left">Libraries & Framework:</h3>
         <p> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="71px" width="72px">
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p>
+    
 
-
-    <!--   <div>
-
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weshaan/weshaan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weshaan/weshaan/output/github-contribution-grid-snake.svg">
-    <img alt="grid snake animation" src="https://raw.githubusercontent.com/weshaan/weshaan/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-
-  
-</div> -->
-
-  <div>
+ <div>
 
         [![GitHub
         Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
