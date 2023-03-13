@@ -47,7 +47,10 @@ things.
  </div>
 
  ![shubham-singh-748's Stats](https://github-readme-stats.vercel.app/api?username=shubham-singh-748&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+    
     ![shubham-singh-748's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh-748&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubham-singh-748&theme=gotham)](https://git.io/streak-stats) 
 
  <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en"
