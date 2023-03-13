@@ -1,4 +1,12 @@
-<h1 align="center">Hey!<img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="auto" height="55px">This is Shubham</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
+<!-- <h1 align="center">Hey!<img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="auto" height="55px">This is Shubham</h1>
 
 ## About Me 🚀
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering. 
@@ -50,7 +58,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
    
 </div>
-  
+   -->
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&show_icons=true&locale=en" alt="shubham-singh-748" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat" alt="shubham-singh-748" /> </p>
