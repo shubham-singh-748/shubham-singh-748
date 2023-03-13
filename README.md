@@ -42,8 +42,7 @@ things.
 
  <div>
 
-        [![GitHub
-        Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+        [![GitHub Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 
     </div>
 
