@@ -1,4 +1,4 @@
-<h1 alignment="center">Hey! <img src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif" width="auto" height="37px">This is Shubham</h1>
+<h1 align="center">Hey! <img src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif" width="auto" height="45px"> This is Shubham</h1>
   
 ## About Me 🚀
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering. 
