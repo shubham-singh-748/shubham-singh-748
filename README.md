@@ -43,13 +43,10 @@
   
 </div> -->
   
-  <div align="right">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
-</div>
-  
   <div>
     
   [![GitHub Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="170" width="170" align="right">
 </div>
   
   
