@@ -43,8 +43,10 @@ things.
  <div>
         [![GitHub Streak](https://streak-stats.demolab.com?user=shubham-singh-748&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
  </div>
-
- ![shubham-singh-748's Stats](https://github-readme-stats.vercel.app/api?username=shubham-singh-748&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+    
+<div>
+  ![shubham-singh-748's Stats](https://github-readme-stats.vercel.app/api?username=shubham-singh-748&theme=gotham&show_icons=true&hide_border=true&c       count_private=true)
+    </div>
     
     ![shubham-singh-748's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-singh-748&theme=gotham&show_icons=true&hide_border=true&layout=compact)
     
