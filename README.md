@@ -13,11 +13,11 @@
 <p align="left">
   
   ### Tools and Development
-    <p> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="53px" width="58px">
+    <div> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="53px" width="58px">
         <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" height="53px" width="58px">
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="53px" width="58px">
         <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"
-            height="53px" width="58px"></p>
+            height="53px" width="58px"></div>
     
     <h3 alignment="left">Languages:</h3>
     <p> <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" height="53px" width="58px">
