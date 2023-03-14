@@ -76,7 +76,6 @@ things.
     
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -94,7 +93,6 @@ things.
         padding: 5px;
     }
 </style>
-
 <body>
     <div class="container">
         <div class="image"><img height="200px" width="400"
@@ -103,9 +101,7 @@ things.
         <div class="image"><img alt="stats card" height="200px" width="400"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark"></div>
     </div>
-    <link rel="stylesheet" href="s.css">
 </body>
-
 </html>
     
     
