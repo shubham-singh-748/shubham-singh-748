@@ -60,7 +60,7 @@ things.
     </p>  
     
     
-    <h2> 📈 &nbsp;My GitHub History!</h2>
+<h2> 📈 &nbsp;My GitHub History!</h2>
     
 <img height="200px" width="400"
         src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
