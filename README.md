@@ -65,7 +65,7 @@ things.
    
     
     
-<h2> 📈 &nbsp;My GitHub History!</h2>
+
     
 <!-- <img class="youbro" height="200px" width="400"
         src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
@@ -74,6 +74,8 @@ things.
             src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
      -->
     
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
 <img class="youbro" 
     src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
 <img class="youbro" alt="stats card"
