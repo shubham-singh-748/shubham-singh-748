@@ -40,7 +40,7 @@ things.
     </p>
     
     
-  [![GitHub Streak](https://streak-stats.demolab.com/?shubham-singh-748=DenverCoder1)](https://git.io/streak-stats)
+  https://github.com/shubham-singh-748
     
     
  <p align="left"> <img
