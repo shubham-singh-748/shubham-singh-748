@@ -23,7 +23,7 @@ things.
         alt="" width="34" height="34"></a>
   <a href="https://bit.ly/3ZX3ZA0"><img 
         src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" 
-        alt="" height="34" width="auto"></a>
+        alt="" height="36" width="auto"></a>
         
 
 
