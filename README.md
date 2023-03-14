@@ -39,9 +39,7 @@ things.
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p>
     
-    
-  https://github.com/shubham-singh-748
-    
+    <img src="![shubham-singh-748's Stats](https://github-readme-stats.vercel.app/api?username=shubham-singh-748&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="">
     
  <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
