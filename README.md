@@ -13,9 +13,9 @@ things.
 <h3 align="left">
     <p align="left">
     <p align="top"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
-            width="490px" height="450px"> </p>
+            width="400px" height="400px"> </p>
 
-## <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f517.png" height="17" width="auto" alt=""> Links:-
+## <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f517.png" height="17" width="auto" alt=""> Find me:-
   <a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="40"
         height="40"></a>
   <a href="https://bit.ly/3lqPdlP"><img
@@ -48,7 +48,7 @@ things.
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p> -->
     
-<h2> 🚀 Some Tools I Used For Development And Learned Languages:-</h2>
+<h2> 🚀 Languages & Tools:-</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
