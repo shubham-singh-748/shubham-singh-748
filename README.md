@@ -80,6 +80,5 @@ things.
 <img class="youbro" 
     src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
 <img class="youbro" alt="stats card"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
-    
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">  
 ![Snake animation](https://github.com/shubham-singh-748/shubham-singh-748/blob/output/github-contribution-grid-snake.svg)
