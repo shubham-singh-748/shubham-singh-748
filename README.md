@@ -50,3 +50,7 @@ things.
  <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
             alt="shubham-singh-748" /> </p>
+    
+ <h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/shubham-singh-748/shubham-singh-748/blob/output/github-contribution-grid-snake.svg)
