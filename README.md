@@ -5,11 +5,6 @@
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering.
 * I am passionate about competitive programming, mathematics, Front-end dev, Machine Learning & I enjoy learning new
 things.
-
-<h3 align="left">
-    <p align="left">
-    <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
-            width="298px" height="390px"> </p>
     
 ## 🔗 Links
   <a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45"
@@ -18,7 +13,10 @@ things.
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553"
         alt="" width="39" height="39"></a>
         
-
+<h3 align="left">
+    <p align="left">
+    <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
+            width="310px" height="400px"> </p>
 
  <h3 align="left">Tools for development:</h3>
       <p> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="45px" width="45px">
