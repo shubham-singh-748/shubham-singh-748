@@ -67,34 +67,32 @@ things.
     
 <h2> 📈 &nbsp;My GitHub History!</h2>
     
-<!-- <img height="200px" width="400"
+<!-- <img class="youbro" height="200px" width="400"
         src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
     
-<img alt="stats card" height="200px" width="400"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark"> -->
+<img class="youbro" alt="stats card" height="200px" width="400"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
+     -->
     
-    
+<img class="youbro" 
+    src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
+
+<img class="youbro" alt="stats card"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
+
+
 <style>
-    .container {
-        align-items: center;
-        float: left;
+    .img {
+        display: inline-block;
+
     }
 
-    .image {
-        float: left;
-        padding: 5px;
+    img.youbro {
+        width: 34%;
+        height: 31%;
+        display: inline-block;
     }
 </style>
-
-<body>
-    <div class="container">
-        <div class="image"><img height="200px" width="400"
-                src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
-        </div>
-        <div class="image"><img alt="stats card" height="200px" width="400"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark"></div>
-    </div>
-</body>
     
     
 ![Snake animation](https://github.com/shubham-singh-748/shubham-singh-748/blob/output/github-contribution-grid-snake.svg)
