@@ -24,7 +24,7 @@ things.
         
 
 
- <h3 align="left">Tools for development:</h3>
+<!--  <h3 align="left">Tools for development:</h3>
       <p> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="45px" width="45px">
         <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" height="45px" width="45px">
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="45px" width="45px">
@@ -43,6 +43,16 @@ things.
  <h3 align="left">Libraries & Framework:</h3>
         <p> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="71px" width="72px">
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
+    </p> -->
+    
+ <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+ <p align="left">
+     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="45px" width="45px">
+     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" height="45px" width="45px">
+     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="45px" width="45px">
+     <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"
+            height="45px" width="45px">
+     
     </p>
     
 <img height="200px" width="400"
