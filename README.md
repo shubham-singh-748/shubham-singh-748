@@ -5,41 +5,10 @@
             src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
             alt="shubham-singh-748" /> </p>
 
-<!-- ## About Me 🚀
+## 👨🏻‍💻 About Me
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering.
-* I am passionate about competitive programming, mathematics, Front-end dev, Machine Learning & I enjoy learning new
-things. -->
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```yaml
-name: Shubham Kumar
-located_in: Dhanbad, India
-current_job: Front-End Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Diploma in Computer Science & Engg.
-    "Bachelor's in Computer Science & Engg",
-    "Loading....."
-  ]
-company: Chegg Inc.
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-  
-currently_learning: ["Docker, Kubernetes and React Native"]
-hobbies: ["Gaming", "Cinema", "Listening Music", "Art", "Comedy"]
-```
-  
----
+* I am passionate about devlopment new stuffs, mathematics, Front-end dev, Machine Learning & I enjoy learning new
+things.
     
 <h3 align="left">
     <p align="left">
