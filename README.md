@@ -45,15 +45,14 @@ things.
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p> -->
     
- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
- <p align="left">
-     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="45px" width="45px">
-     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" height="45px" width="45px">
-     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="45px" width="45px">
-     <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"
-            height="45px" width="45px">
-     
-    </p>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+    </p>  
     
 <img height="200px" width="400"
         src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
