@@ -59,14 +59,13 @@ things.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
     </p>  
     
+    
+    <h2> 📈 &nbsp;My GitHub History!</h2>
+    
 <img height="200px" width="400"
         src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
     
 <img alt="stats card" height="200px" width="400"
             src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
-    
-
-    
- <h2> 📈 &nbsp;My GitHub History!</h2>
 
 ![Snake animation](https://github.com/shubham-singh-748/shubham-singh-748/blob/output/github-contribution-grid-snake.svg)
