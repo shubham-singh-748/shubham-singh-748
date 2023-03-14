@@ -1,5 +1,9 @@
 <h1 align="center">Hey!<img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="auto" height="55px">This is
     Shubham</h1>
+    
+ <p align="left"> <img
+            src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
+            alt="shubham-singh-748" /> </p>
 
 ## About Me 🚀
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering.
@@ -47,9 +51,7 @@ things.
 <img alt="stats card" height="200px" width="400"
             src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
     
- <p align="left"> <img
-            src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
-            alt="shubham-singh-748" /> </p>
+
     
  <h2> 📈 &nbsp;My GitHub History!</h2>
 
