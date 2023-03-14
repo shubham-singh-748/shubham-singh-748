@@ -13,16 +13,17 @@ things. -->
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Shubham Kumar
+located_in: Dhanbad, India
+current_job: Front-End Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Diploma in Computer Science & Engg.
+    "Bachelor's in Computer Science & Engg",
+    "Loading....."
   ]
-company: Soulber
+company: Chegg Inc.
 
 fields_of_interests:
   [
@@ -33,17 +34,9 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Cinema", "Listening Music", "Art", "Comedy"]
 ```
   
 ---
@@ -53,7 +46,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
     <p align="top"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
             width="490px" height="450px"> </p>
 
-## 💻 &nbsp; Links
+## ![image](https://user-images.githubusercontent.com/88304238/224871055-34139a5c-3a9f-4518-b6a9-24bf291040b4.png) &nbsp; Links
   <a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45"
         height="45"></a>
   <a href="https://bit.ly/3lqPdlP"><img
