@@ -82,16 +82,4 @@ things.
 <img class="youbro" alt="stats card"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
     
-<!-- <style>
-    .img {
-        display: inline-block;
-    }
-    img.youbro {
-        width: 34%;
-        height: 31%;
-        display: inline-block;
-    }
-</style> -->
-    
-    
 ![Snake animation](https://github.com/shubham-singh-748/shubham-singh-748/blob/output/github-contribution-grid-snake.svg)
