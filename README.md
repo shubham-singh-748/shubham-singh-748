@@ -46,7 +46,7 @@ hobbies: ["Gaming", "Cinema", "Listening Music", "Art", "Comedy"]
     <p align="top"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
             width="490px" height="450px"> </p>
 
-## <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f517.png" height="10" width="auto" alt=""> &nbsp; Links
+## <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f517.png" height="17" width="auto" alt=""> &nbsp; Links
   <a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45"
         height="45"></a>
   <a href="https://bit.ly/3lqPdlP"><img
