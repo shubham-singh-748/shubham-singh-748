@@ -25,7 +25,6 @@ things.
         src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" 
         alt="" height="36" width="auto"></a>
         
-</br>
 
 
 <!--  <h3 align="left">Tools for development:</h3>
@@ -63,8 +62,7 @@ things.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
     </p>  
     
-    
-</br>
+   
     
     
 <h2> 📈 &nbsp;My GitHub History!</h2>
