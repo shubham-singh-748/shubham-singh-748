@@ -15,8 +15,8 @@ things.
         
 <h3 align="left">
     <p align="left">
-    <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
-            width="310px" height="400px" align="top"> </p>
+    <p align="top"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
+            width="310px" height="400px"> </p>
 
  <h3 align="left">Tools for development:</h3>
       <p> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="45px" width="45px">
