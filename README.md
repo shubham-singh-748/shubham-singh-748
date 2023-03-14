@@ -67,10 +67,38 @@ things.
     
 <h2> 📈 &nbsp;My GitHub History!</h2>
     
-<img height="200px" width="400"
+<!-- <img height="200px" width="400"
         src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
     
 <img alt="stats card" height="200px" width="400"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
+            src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark"> -->
 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="image"><img height="200px" width="400"
+            src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" /></div>
+        <div class="image"><img alt="stats card" height="200px" width="400"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark"></div>
+    </div>
+    <link rel="stylesheet" href="s.css">
+</body>
+</html>
+    
+.container {
+  align-items: center; 
+  float: left;
+}
+.image{
+    float: left;
+  padding: 5px;
+}
+    
 ![Snake animation](https://github.com/shubham-singh-748/shubham-singh-748/blob/output/github-contribution-grid-snake.svg)
