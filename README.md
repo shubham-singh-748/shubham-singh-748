@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About Me:-
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering.
-* I am passionate about devlopment new stuffs, mathematics, Front-end dev, Machine Learning & I enjoy learning new
+* I am passionate about learning new stuffs, Front-end dev, Machine Learning, mathematics & I enjoy developing cool projects.
 things.
     
 <h3 align="left">
