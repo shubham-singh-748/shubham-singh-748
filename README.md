@@ -44,6 +44,9 @@ things.
 <img height="200px" width="400"
         src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
     
+<img alt="stats card" height="200px" width="400"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
+    
  <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
             alt="shubham-singh-748" /> </p>
