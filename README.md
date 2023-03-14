@@ -5,7 +5,7 @@
             src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
             alt="shubham-singh-748" /> </p>
 
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me:-
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering.
 * I am passionate about devlopment new stuffs, mathematics, Front-end dev, Machine Learning & I enjoy learning new
 things.
@@ -15,7 +15,7 @@ things.
     <p align="top"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
             width="490px" height="450px"> </p>
 
-## <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f517.png" height="17" width="auto" alt="">Links
+## <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f517.png" height="17" width="auto" alt=""> Links:-
   <a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="45"
         height="45"></a>
   <a href="https://bit.ly/3lqPdlP"><img
@@ -45,7 +45,7 @@ things.
         <img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="71px" width="72px">
     </p> -->
     
-<h2> 🚀 Some Tools I Have Used and Learned</h2>
+<h2> 🚀 Some Tools I Have Used and Learned:-</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
