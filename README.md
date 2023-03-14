@@ -74,14 +74,6 @@ things.
             src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark"> -->
     
     
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <title>Document</title> -->
-</head>
 <style>
     .container {
         align-items: center;
@@ -93,6 +85,7 @@ things.
         padding: 5px;
     }
 </style>
+
 <body>
     <div class="container">
         <div class="image"><img height="200px" width="400"
@@ -102,7 +95,6 @@ things.
                 src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark"></div>
     </div>
 </body>
-</html>
     
     
 ![Snake animation](https://github.com/shubham-singh-748/shubham-singh-748/blob/output/github-contribution-grid-snake.svg)
