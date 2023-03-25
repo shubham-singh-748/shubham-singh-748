@@ -65,9 +65,8 @@ things.
    
 <h2> 📈 &nbsp;My GitHub History!</h2>
     
-<!-- <img class="youbro" width="400"
+<img class="youbro" width="400"
     src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
 <img class="youbro" width = "400" alt="stats card"
-     src="https://camo.githubusercontent.com/06d2af462564bf0faecb6c9e6aec35047f3b9ed4949fdadccdd561d0247c58e4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7368756268616d2d73696e67682d373438267468656d653d7675652d6461726b"> -->
-    
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+     src="https://camo.githubusercontent.com/06d2af462564bf0faecb6c9e6aec35047f3b9ed4949fdadccdd561d0247c58e4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7368756268616d2d73696e67682d373438267468656d653d7675652d6461726b">
+   
