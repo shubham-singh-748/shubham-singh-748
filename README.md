@@ -69,7 +69,6 @@ things.
     
 <img class="youbro" height="200px" width="400"
         src="https://github-readme-stats.vercel.app/api?username=shubham-singh-748&count_private=true&theme=vue-dark&show_icons=true" />
-    
 <img class="youbro" alt="stats card" height="200px" width="400"
             src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-748&theme=vue-dark">
      
