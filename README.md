@@ -67,7 +67,7 @@ things.
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="55" /> -->
 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="auto" height="55" /> -->
-<img src="https://keenethics.com/wp-content/uploads/2021/08/Node.js_logo_2015-1-2.png" width="145" height="45" alt="">
+<img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="45" height="45" alt="">
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
