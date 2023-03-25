@@ -13,7 +13,7 @@ things.
 <h3 align="left">
     <p align="left">
     <p align="top"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right"
-            width="480px" height="550px"> </p>
+            width="420px" height="490px"> </p>
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f517.png" height="17" width="auto" alt=""> Find me:-
   <a href="https://bit.ly/3YNDuvV"><img src="https://cdn-icons-png.flaticon.com/512/2626/2626273.png" alt="" width="40"
