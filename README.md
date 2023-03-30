@@ -24,8 +24,9 @@ things.
   <a href="https://bit.ly/3ZX3ZA0"><img 
         src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" 
         alt="" height="36" width="auto"></a>
-  <a href="https://app.netlify.com/teams/shubham-singh-748/overview"><img src="https://encrypted-tbn0.gstatic.com       /images?q=tbn:ANd9GcT658J3WeKiudRGcfsVevGeHs370MgRCAntBfRwwikoFri0HjdzgxKYl1eOBbg4oNAFA4s&usqp=CAU"
-    height="45" width="45"></a>
+  <a href="https://app.netlify.com/teams/shubham-singh-748/overview"><img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT658J3WeKiudRGcfsVevGeHs370MgRCAntBfRwwikoFri0HjdzgxKYl1eOBbg4oNAFA4s&usqp=CAU"
+        height="45" width="45"></a>
         
 
 
