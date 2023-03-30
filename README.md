@@ -26,7 +26,7 @@ things.
         alt="" height="36" width="auto"></a>
   <a href="https://app.netlify.com/teams/shubham-singh-748/overview"><img
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT658J3WeKiudRGcfsVevGeHs370MgRCAntBfRwwikoFri0HjdzgxKYl1eOBbg4oNAFA4s&usqp=CAU"
-        height="36" width="auto"></a>
+        height="34" width="auto"></a>
         
 
 
