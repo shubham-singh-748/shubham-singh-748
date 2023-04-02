@@ -3,7 +3,7 @@
     
  <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=shubham-singh-748&label=Profile Views&color=0e75b6&style=flat"
-            alt="shubham-singh-748" /> </p>
+            alt="shubham-singh-748"/> </p>
 
 ## 👨🏻‍💻 About Me:-
 * I’m a web developer & a junior pursuing my Bachelors in Computer Science & Engineering.
